@@ -9,7 +9,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
-import com.example.ph44766_lab6.screens.component.ListColumn
+import com.example.ph44766_lab6.ListColumn
 import com.example.ph44766_lab6.screens.component.ListGrid
 import com.example.ph44766_lab6.screens.component.ListRow
 

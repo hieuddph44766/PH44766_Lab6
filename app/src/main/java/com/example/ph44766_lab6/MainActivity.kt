@@ -11,6 +11,9 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import androidx.navigation.compose.NavHost
+import androidx.navigation.compose.composable
+import androidx.navigation.compose.rememberNavController
 import com.example.ph44766_lab6.ui.theme.PH44766_Lab6Theme
 import com.example.ph44766_lab6.screens.Bai1
 import com.example.ph44766_lab6.screens.Bai2

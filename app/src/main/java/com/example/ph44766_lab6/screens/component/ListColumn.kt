@@ -17,8 +17,8 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import coil.compose.AsyncImage
-import com.example.ph44766_lab6.SourceApp
-import com.example.ph44766_lab6.Phim
+import com.example.ph44766_lab6.data.SourceApp
+import com.example.ph44766_lab6.model.Phim
 
 @Composable
 fun ListColumn() {
